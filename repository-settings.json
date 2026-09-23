@@ -1,0 +1,17 @@
+{
+  "description": "Documentation and support for Xtreme Viewport Pilot v1.7, a browser viewport and environment testing extension.",
+  "homepage": "https://xtreme-mindset.blogspot.com/",
+  "visibility": "public",
+  "has_issues": true,
+  "has_discussions": true,
+  "topics": [
+    "browser-extension",
+    "responsive-design",
+    "viewport",
+    "testing",
+    "chrome",
+    "edge",
+    "firefox",
+    "technical-support"
+  ]
+}
