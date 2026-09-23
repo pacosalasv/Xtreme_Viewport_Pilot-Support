@@ -1,6 +1,6 @@
 {
-  "description": "Documentation and support for Xtreme Viewport Pilot v1.7, a browser viewport and environment testing extension.",
-  "homepage": "https://xtreme-mindset.blogspot.com/",
+  "description": "Responsive testing cockpit with device profiles, synchronized LAB sessions, network/CPU/location conditions, custom profiles and 31-language support.",
+  "homepage": "https://xtrememindset.blogspot.com/",
   "visibility": "public",
   "has_issues": true,
   "has_discussions": true,

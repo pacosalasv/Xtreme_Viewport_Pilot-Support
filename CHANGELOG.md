@@ -1,8 +1,7 @@
 # Changelog
 
-## 1.7 reference
+## 1.7
 
-- Added the public support repository for **Xtreme Viewport Pilot**.
-- Documented the supplied 1.7 build/reference material.
-- Added issue tracking, support guidance, product metadata, and common ecosystem navigation.
-- Installable product files remain outside this repository.
+- Established the public support and documentation home for **Xtreme Viewport Pilot**.
+- Added product overview, key features, standout workflows, status, support guidance, and ecosystem links.
+- Added issue templates and public feedback channels for compatibility, bugs, and product ideas.
