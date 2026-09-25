@@ -8,7 +8,7 @@
 
 ![Status](https://img.shields.io/badge/Status-Current%20Release-22C55E?style=for-the-badge) ![Version](https://img.shields.io/badge/Version-1.7-00B7FF?style=for-the-badge) ![Browsers](https://img.shields.io/badge/Browsers-Chromium%20%2F%20Edge%20%2F%20Firefox-334155?style=for-the-badge)
 
-[![Supporter access](https://img.shields.io/badge/Supporter%20Access-Request%20Build-FF5E5B?style=for-the-badge)](https://ko-fi.com/pacosalasv) [![Support](https://img.shields.io/badge/Support-Issues-1E5BFF?style=for-the-badge)](https://github.com/pacosalasv/Xtreme_Viewport_Pilot-Support/issues) [![Xtreme Mindset](https://img.shields.io/badge/Xtreme%20Mindset-Product%20Lab-7C3AED?style=for-the-badge)](https://xtrememindset.blogspot.com/)
+[![Support & access](https://img.shields.io/badge/Support-Access%20Guide-FF5E5B?style=for-the-badge)](SUPPORT.md) [![Support](https://img.shields.io/badge/Support-Issues-1E5BFF?style=for-the-badge)](https://github.com/pacosalasv/Xtreme_Viewport_Pilot-Support/issues) [![Xtreme Mindset](https://img.shields.io/badge/Xtreme%20Mindset-Product%20Lab-7C3AED?style=for-the-badge)](https://xtrememindset.blogspot.com/)
 
 </div>
 
@@ -22,9 +22,9 @@ The LAB workflow is the differentiator: open two to four device windows and sync
 
 ## Get the current build
 
-This product is shared directly with supporters instead of through a public download link. [Support development on Ko-fi](https://ko-fi.com/pacosalasv) and include **the product name and the email address where you want to receive it** in your message. I will send the current available build directly.
+Current builds are shared directly with supporters instead of through a public download button. Open [SUPPORT.md](SUPPORT.md) for the current access process, Ko-fi and PayPal options, and the private delivery details to include with your support.
 
-Direct distribution keeps access personal, connects product feedback with active users, and gives supporters a simple route to the current build without hunting through mirrors or outdated packages.
+Direct distribution keeps access personal, gives active users a straightforward path to the current available build, and keeps product feedback close to the people using the tool.
 
 ## Key features
 
@@ -68,27 +68,30 @@ Additional screenshots and workflow previews are coming soon.
 
 | Resource | Link |
 |---|---|
-| Current build | [Request supporter access](https://ko-fi.com/pacosalasv) |
-| Support guide | [SUPPORT.md](SUPPORT.md) |
+| Support & current build | [Access and support guide](SUPPORT.md) |
 | Repository changelog | [CHANGELOG.md](CHANGELOG.md) |
 | Issues | [Open or review issues](https://github.com/pacosalasv/Xtreme_Viewport_Pilot-Support/issues) |
 | Discussions | [Ask questions and share feedback](https://github.com/pacosalasv/Xtreme_Viewport_Pilot-Support/discussions) |
 
 ## Support development
 
-If this tool saves you time, Ko-fi support helps fund maintenance, compatibility work, documentation, testing, and continued development.
+If this tool saves you time, you can support maintenance, compatibility work, documentation, testing, and continued development through Ko-fi or PayPal. If you are requesting the current build, include **the product name and the email address where you want to receive it** in the private payment message or note. I will send the current available build directly. If you are supporting the work without requesting a build, no delivery email is needed.
 
 <div align="center">
   <a href="https://ko-fi.com/pacosalasv">
     <img width="620" alt="Support Paco Salas | DRH on Ko-fi" src="docs/media/SupportMe.png" />
   </a>
+  <br />
+  <strong>Prefer PayPal?</strong> <a href="https://www.paypal.com/paypalme/pacosalas?locale.x=en_US&country.x=MX">Support development with PayPal</a>
 </div>
 
 ## Ecosystem
 
 | Destination | Link |
 |---|---|
-| Supporter access | [Request the current build on Ko-fi](https://ko-fi.com/pacosalasv) |
+| Support & current build | [Access and delivery guide](SUPPORT.md) |
+| Ko-fi | [Support development](https://ko-fi.com/pacosalasv) |
+| PayPal | [Support development](https://www.paypal.com/paypalme/pacosalas?locale.x=en_US&country.x=MX) |
 | Issues & feedback | [GitHub Issues](https://github.com/pacosalasv/Xtreme_Viewport_Pilot-Support/issues) |
 | Xtreme Mindset | [Product lab](https://xtrememindset.blogspot.com/) |
 | Paco Salas \| DRH | [Official site](https://pacosalasv.blogspot.com/) |

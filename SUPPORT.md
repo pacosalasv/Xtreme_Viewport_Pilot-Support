@@ -6,7 +6,7 @@ This repository is the public documentation, support, issue-tracking, and feedba
 
 | Need | Use |
 |---|---|
-| Request current build | [Supporter access on Ko-fi](https://ko-fi.com/pacosalasv) |
+| Current build / supporter access | See [Support development](#support-development) below |
 | Setup or workflow question | [GitHub Discussions](https://github.com/pacosalasv/Xtreme_Viewport_Pilot-Support/discussions) |
 | Reproducible bug or regression | [GitHub Issues](https://github.com/pacosalasv/Xtreme_Viewport_Pilot-Support/issues/new/choose) |
 | Compatibility problem | [GitHub Issues](https://github.com/pacosalasv/Xtreme_Viewport_Pilot-Support/issues/new/choose) |
@@ -36,23 +36,27 @@ Do not post passwords, license keys, private account details, confidential clien
 
 **Current release: 1.7.** Use this repository for documentation, compatibility notes, issue tracking, and product feedback.
 
-The current build is shared directly with supporters. [Support development on Ko-fi](https://ko-fi.com/pacosalasv) and include **the product name and the email address where you want to receive it** in your message. I will send the current available build directly.
+The current build is shared directly with supporters. The access steps and both support options are listed below.
 
 ## Support development
 
-If this tool saves you time, Ko-fi support helps fund maintenance, compatibility work, documentation, testing, and continued development.
+Current builds are delivered directly to supporters. Choose Ko-fi or PayPal below. If you want the current build, include **the product name and the email address where you want to receive it** in the private payment message or note. I will send the current available build directly. If you only want to support development, no product name or delivery email is required.
 
 <div align="center">
   <a href="https://ko-fi.com/pacosalasv">
     <img width="620" alt="Support Paco Salas | DRH on Ko-fi" src="docs/media/SupportMe.png" />
   </a>
+  <br />
+  <strong>Prefer PayPal?</strong> <a href="https://www.paypal.com/paypalme/pacosalas?locale.x=en_US&country.x=MX">Support development with PayPal</a>
 </div>
 
 ## Related links
 
 | Destination | Link |
 |---|---|
-| Current build | [Request supporter access](https://ko-fi.com/pacosalasv) |
+| Current build | [See supporter access above](#support-development) |
+| Ko-fi | [Support development](https://ko-fi.com/pacosalasv) |
+| PayPal | [Support development](https://www.paypal.com/paypalme/pacosalas?locale.x=en_US&country.x=MX) |
 | Product support | [Xtreme_Viewport_Pilot-Support](https://github.com/pacosalasv/Xtreme_Viewport_Pilot-Support) |
 | Xtreme Mindset | [Product lab](https://xtrememindset.blogspot.com/) |
 | Paco Salas / DRH | [Official site](https://pacosalasv.blogspot.com/) |
