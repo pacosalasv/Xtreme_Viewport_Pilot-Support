@@ -31,7 +31,7 @@ Review the README, reproduce the behavior when possible, and check existing Issu
 
 Do not post passwords, license keys, private account details, confidential client files, or sensitive system information. If private material appears necessary, describe the problem first and wait for a safe sharing path.
 
-## Release status
+## Release and distribution status
 
 **Current release: 1.7.** Use this repository for documentation, compatibility notes, issue tracking, and product feedback.
 
