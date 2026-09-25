@@ -1,4 +1,4 @@
-# Xtreme Viewport Pilot — Support
+# Xtreme Viewport Pilot - Support
 
 This repository is the public documentation, support, issue-tracking, and feedback home for **Xtreme Viewport Pilot 1.7**.
 
@@ -6,6 +6,7 @@ This repository is the public documentation, support, issue-tracking, and feedba
 
 | Need | Use |
 |---|---|
+| Request current build | [Supporter access on Ko-fi](https://ko-fi.com/pacosalasv) |
 | Setup or workflow question | [GitHub Discussions](https://github.com/pacosalasv/Xtreme_Viewport_Pilot-Support/discussions) |
 | Reproducible bug or regression | [GitHub Issues](https://github.com/pacosalasv/Xtreme_Viewport_Pilot-Support/issues/new/choose) |
 | Compatibility problem | [GitHub Issues](https://github.com/pacosalasv/Xtreme_Viewport_Pilot-Support/issues/new/choose) |
@@ -35,6 +36,8 @@ Do not post passwords, license keys, private account details, confidential clien
 
 **Current release: 1.7.** Use this repository for documentation, compatibility notes, issue tracking, and product feedback.
 
+The current build is shared directly with supporters. [Support development on Ko-fi](https://ko-fi.com/pacosalasv) and include **the product name and the email address where you want to receive it** in your message. I will send the current available build directly.
+
 ## Support development
 
 If this tool saves you time, Ko-fi support helps fund maintenance, compatibility work, documentation, testing, and continued development.
@@ -49,8 +52,12 @@ If this tool saves you time, Ko-fi support helps fund maintenance, compatibility
 
 | Destination | Link |
 |---|---|
+| Current build | [Request supporter access](https://ko-fi.com/pacosalasv) |
 | Product support | [Xtreme_Viewport_Pilot-Support](https://github.com/pacosalasv/Xtreme_Viewport_Pilot-Support) |
-| Xtreme Mindset | [Product lab and experimentation](https://xtrememindset.blogspot.com/) |
-| Paco Salas \| DRH | [Software, automation, 3D, AI, and product work](https://pacosalasv.blogspot.com/) |
-| KreaOn | [Applied technology education](https://www.kreaon.com/) |
-| Ko-fi | [Support development](https://ko-fi.com/pacosalasv) |
+| Xtreme Mindset | [Product lab](https://xtrememindset.blogspot.com/) |
+| Paco Salas / DRH | [Official site](https://pacosalasv.blogspot.com/) |
+| DRH Blender tools | [BlendKit catalog](https://www.blendkit.com/?query=author_id:205846) |
+| Sketchfab / Código Píxel | [3D model collections](https://sketchfab.com/codigopixel/collections) |
+| KreaOn | [Technology education](https://www.kreaon.com/) |
+| PiNu | [Connected physical products](https://pinu.com.mx/) |
+| GitHub | [pacosalasv](https://github.com/pacosalasv) |
