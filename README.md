@@ -116,4 +116,4 @@ Open an Issue here for bugs. For delivery questions, check SUPPORT.md first.
   </a>
 </div>
 
-<sub>Xtreme Mindset · Updated 2026-10 — v19.1</sub>
+<sub>Xtreme Mindset · Updated 2026-10 - v19.1</sub>
