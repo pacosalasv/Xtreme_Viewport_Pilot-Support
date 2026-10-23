@@ -1,0 +1,48 @@
+name: Bug report
+description: Report a reproducible problem with Xtreme Viewport Pilot.
+title: "[Bug] "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reporting a problem. Do not include passwords, private files, license keys, or confidential information.
+  - type: input
+    id: version
+    attributes:
+      label: Product version
+      placeholder: Exact version/build
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: Browsers
+      placeholder: Exact application/browser/OS version as applicable
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: Start from a clean or known state when possible.
+      placeholder: "1. ...\n2. ...\n3. ..."
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected result
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual result
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence
+      description: Add error text, screenshots, console output, or a minimal example when safe.

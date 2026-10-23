@@ -1,0 +1,22 @@
+name: Feature request
+description: Suggest an improvement for Xtreme Viewport Pilot.
+title: "[Feature] "
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem or workflow need
+      description: Describe the workflow problem before proposing a solution.
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed improvement
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional context

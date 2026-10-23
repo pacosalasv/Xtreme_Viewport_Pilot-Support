@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Questions and workflow help
+    url: https://github.com/pacosalasv/Xtreme_Viewport_Pilot-Support/discussions
+    about: Use Discussions for questions, setup help, and general workflow feedback.

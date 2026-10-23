@@ -1,0 +1,29 @@
+# Repository hygiene
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+*.temp
+*.log
+*.bak
+*.swp
+
+# Do not publish installable/product packages from support repositories
+*.zip
+*.7z
+*.rar
+*.tar
+*.gz
+*.exe
+*.msi
+*.xlam
+*.xlsm
+*.pptm
+*.ppam
+*.crx
+*.xpi
+*.pem
+*.key
+*.pfx
+*.p12
+.env
